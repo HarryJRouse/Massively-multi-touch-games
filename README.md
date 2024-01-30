@@ -1,6 +1,25 @@
 # Massively-multi-touch-games
 This is a collection of Unity projects that were created to explore a design space for massively multi-touch games.
 
+##Card Match
+This game is similar to the classic card game Memory, where players have to flip over 2 cards in an attempt to find a matching pair. In this version up to 8 players search for matching cards and drag them into thier "card zones" to earn points.
+
+##Drawing Game
+This game is similar to Pictionary, where the drawers are given a word or phrase to draw and the guesser has to guess what they are deawing. The catch here is that the guesser sees all of the drawings stacked on top of each other.
+
+##Laser Game
+In this game there is 1 player that controls a small square using a controller or keyboard. Thier goal is to collect as many randomly spawned coins as possible. There are 6 cannons on the screen that are used by everyone else to eliminate the controller player.
+
+##Minigames
+This is a game similar to WarioWare where 2 players are given a short minigame to complete. The first person to complete it gets a point and another minigame is presented. This happens until 1 of the players reaches 7 points.
+
+##Cooking
+This is similar to overcooked in that orders are given to the player(s) and they have to prepare ingredients to complete the dish in a certain amount of time to gain points.
+
+
+##Physics Game
+In this game a ball is dropped on either side of the screen and the players have to move objects around to guide it into a colored box corresponding to a pattern they are given.
+
 ## Assets Used In Projects
 All assets were found in the Unity Registery or were free from the Unity Asset Store
 
