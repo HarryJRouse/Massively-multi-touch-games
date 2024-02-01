@@ -4,6 +4,8 @@ This is a collection of Unity projects that were created to explore a design spa
 ## Card Match
 This demo is similar to the classic card game Memory, where players have to flip over 2 cards in an attempt to find a matching pair. In this version up to 8 players search for matching cards and drag them into thier "card zones" to earn points.
 
+[Screenshot of Card Match Demo](DemoScreenshots/CardMatch.png)
+
 ### File Structure
 This project has files for an unused air hockey style demo and a recreation of the card game "Spoons". The air hockey does not work, but the other demo does.
 
