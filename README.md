@@ -70,7 +70,7 @@ This project contains scripts and images for an unused train demo and two player
 ## Minigames and Cooking
 This project contains two demos. The first is a demo similar to WarioWare where 2 players are given a short minigame to complete. The first person to complete it gets a point and another minigame is presented. This happens until 1 of the players reaches 7 points. The second is similar to overcooked in that orders are given to the player(s) and they have to prepare ingredients to complete the dish in a certain amount of time to gain points.
 
-![Screenshot of Mingames Demo](DemoScreenshots/Minigames.png)
+![Screenshot of Mingames Demo](DemoScreenshots/MiniGames.png)
 
 ![Screenshot of Cooking Game Demo](DemoScreenshots/Cooking.png)
 
