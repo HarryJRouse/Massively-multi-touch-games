@@ -4,6 +4,23 @@ This is a collection of Unity projects that were created to explore a design spa
 ## Card Match
 This game is similar to the classic card game Memory, where players have to flip over 2 cards in an attempt to find a matching pair. In this version up to 8 players search for matching cards and drag them into thier "card zones" to earn points.
 
+### File Structure
+This project has files for an unused air hockey style demo and a recreation of the card game "Spoons". The air hockey does not work, but the other game does.
+
+**Air Hockey** Contains everything for the air hockey demo.
+
+**Card Game** This contains everything for the Spoons recreation.
+
+**Card Match** This contains all of the scripts, images and prefabs that were specific to the card match game. The Cards folder contains the card prefabs and the Card Sprites folder contains the sprites for the prefabs. All other folders are scripts for the game logic.
+
+**General Scripts** This contains a single script that was used across all the game demos.
+
+**Imported Assets** This contains any assets or packages that were imported from the Unity Asset Store or Unity Registry.
+
+**Resources** This was used to change the images of the cards in the Spoons recreation.
+
+**Scenes** This contains all the scenes in the project. The Main Menu and Card Match scenes are the main two that are used. The Sample Scene has the broken air hockey demo and the Spoons folder has all of the scenes for the Spoons recreation.
+
 ## Drawing Game
 This game is similar to Pictionary, where the drawers are given a word or phrase to draw and the guesser has to guess what they are deawing. The catch here is that the guesser sees all of the drawings stacked on top of each other.
 
