@@ -27,6 +27,8 @@ This project has files for an unused air hockey style demo and a recreation of t
 ## Drawing Game
 This demo is similar to Pictionary, where the drawers are given a word or phrase to draw and the guesser has to guess what they are deawing. The catch here is that the guesser sees all of the drawings stacked on top of each other.
 
+![Screenshot of Drawing Game Demo](DemoScreenshots/Pictionary.png)
+
 ### File Structure
 
 **Prefabs** This contains all of the line render prefabs used to draw in different colors.
@@ -42,6 +44,8 @@ This demo is similar to Pictionary, where the drawers are given a word or phrase
 
 ## Laser Game
 In this demo there is 1 player that controls a small square using a controller or keyboard. Thier goal is to collect as many randomly spawned coins as possible. There are 6 cannons on the screen that are used by everyone else to eliminate the controller player.
+
+![Screenshot of Laser Game Demo](DemoScreenshots/LaserGame.png)
 
 ### File Structure
 This project contains scripts and images for an unused train demo and two player racing demo. Both of these were scrapped either due to being too complex or just not fun.
@@ -66,6 +70,10 @@ This project contains scripts and images for an unused train demo and two player
 ## Minigames and Cooking
 This project contains two demos. The first is a demo similar to WarioWare where 2 players are given a short minigame to complete. The first person to complete it gets a point and another minigame is presented. This happens until 1 of the players reaches 7 points. The second is similar to overcooked in that orders are given to the player(s) and they have to prepare ingredients to complete the dish in a certain amount of time to gain points.
 
+![Screenshot of Mingames Demo](DemoScreenshots/Minigames.png)
+
+![Screenshot of Cooking Game Demo](DemoScreenshots/Cooking.png)
+
 ### File Structure
 
 **Cooking** This contains the images, prefabs and scripts that were used to create the cooking demo.
@@ -88,6 +96,8 @@ This project contains two demos. The first is a demo similar to WarioWare where 
 
 ## Physics Game
 In this game a ball is dropped on either side of the screen and the players have to move objects around to guide it into a colored box corresponding to a pattern they are given.
+
+![Screenshot of Physics Game Demo](DemoScreenshots/PhysicsGame.png)
 
 ### File Structure
 
