@@ -10,6 +10,19 @@ This game is similar to Pictionary, where the drawers are given a word or phrase
 ## Laser Game
 In this game there is 1 player that controls a small square using a controller or keyboard. Thier goal is to collect as many randomly spawned coins as possible. There are 6 cannons on the screen that are used by everyone else to eliminate the controller player.
 
+### File Structure
+This project contains scripts and images for an unused train game and two player racing game. Both of these were scrapped either due to being too complex or just not fun.
+
+**Images** This contains any of the edited or custom images that I used in this game.
+**Imported Assets** This contains any assets or packages that were imported from the Unity Asset Store or Unity Registry.
+**Materials** This contains the materials that were used for the laser rendering, as well as the laser shader graph.
+**Particles** This contains all of the particle effects used, except for the laser buil up effect. This is because the effect is attached to an empty gameobject, which made it easier to rotate and attach to the cannons.
+**Prefabs** This contains any prefabs that were used, including the laser build up particle effect. It also has the bounce physics material that was used for the fireball.
+**Rendering** This contains the files that are needed for the Universal Rendering Pipeline.
+**Scenes** This contains all the scenes in the project. The two that are used are ControllerGame and MainMenu. The other two were for the scrapped game ideas.
+**Scripts** This contains all the scipts used in the project. The SimpleRace and Trains folders were for the scrapped game ideas and are not used in the main game. The Player folder refers to the controller player and the cannons folder is everything to do with the firing of the cannons, not the rotation.
+
+
 ## Minigames
 This is a game similar to WarioWare where 2 players are given a short minigame to complete. The first person to complete it gets a point and another minigame is presented. This happens until 1 of the players reaches 7 points.
 
