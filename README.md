@@ -21,8 +21,22 @@ This project has files for an unused air hockey style demo and a recreation of t
 
 **Scenes** This contains all the scenes in the project. The Main Menu and Card Match scenes are the main two that are used. The Sample Scene has the broken air hockey demo and the Spoons folder has all of the scenes for the Spoons recreation.
 
+
 ## Drawing Game
 This game is similar to Pictionary, where the drawers are given a word or phrase to draw and the guesser has to guess what they are deawing. The catch here is that the guesser sees all of the drawings stacked on top of each other.
+
+###File Structure
+
+**Prefabs** This contains all of the line render prefabs used to draw in different colors.
+
+**Scenes** This contains the two scenes used in the project. The Sample Scene is used for the actual game and the Menu scene is the main menu.
+
+**Scripts** This contains all the scripts used in the project.
+
+**Settings** This contains all the settings for the Universal Render Pipeline.
+
+**Text Mesh Pro** This contains the imported Text Mesh Pro package.
+
 
 ## Laser Game
 In this game there is 1 player that controls a small square using a controller or keyboard. Thier goal is to collect as many randomly spawned coins as possible. There are 6 cannons on the screen that are used by everyone else to eliminate the controller player.
@@ -55,6 +69,21 @@ This is similar to overcooked in that orders are given to the player(s) and they
 
 ## Physics Game
 In this game a ball is dropped on either side of the screen and the players have to move objects around to guide it into a colored box corresponding to a pattern they are given.
+
+### File Structure
+
+**Materials** This contains all the materials used to color the objects in the project. It also contains the physics materials used to make the ball bounce off certain objects.
+
+**Particles** This contains all the particles that are used when a ball lands in a bucket.
+
+**Prefabs** This contains all of the prefabs used in the game, including the boxes, balls and movable pieces.
+
+**Scenes** This contains the one scene used in the project.
+
+**Scripts** This contains all of the scripts used in the project.
+
+**Text Mesh Pro** This contains the imported Text Mesh Pro package.
+
 
 ## Assets Used In Projects
 All assets were found in the Unity Registery or were free from the Unity Asset Store
