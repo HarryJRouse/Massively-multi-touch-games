@@ -1,4 +1,4 @@
-# Massively-multitouch-games
+# Massively Multitouch Games
 This is a collection of Unity projects that were created to explore a design space for massively multi-touch games.
 
 A Massively Multitouch Game is defined as *A game with two or more players using hand-based touch interactions, as well as person to person interactions.*
