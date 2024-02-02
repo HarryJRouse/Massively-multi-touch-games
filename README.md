@@ -1,5 +1,7 @@
-# Massively-multi-touch-games
+# Massively-multitouch-games
 This is a collection of Unity projects that were created to explore a design space for massively multi-touch games.
+
+A Massively Multitouch Game is defined as *A game with two or more players using hand-based touch interactions, as well as person to person interactions.*
 
 ## Card Match
 This demo is similar to the classic card game Memory, where players have to flip over 2 cards in an attempt to find a matching pair. In this version up to 8 players search for matching cards and drag them into thier "card zones" to earn points.
